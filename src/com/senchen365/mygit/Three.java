@@ -14,4 +14,7 @@ public class Three {
     public static void main(String[]arge){
         System.out.println("最近你还好吗？");
     }
+
+
+
 }
